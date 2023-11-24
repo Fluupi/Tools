@@ -1,8 +1,8 @@
 {
-  "name": "com.flupackages.projectsetup",
+  "name": "com.flupackages.tools",
   "version": "1.0.0",
-  "displayName": "Flupi's Project Setup",
-  "description": "Project Setup Package",
+  "displayName": "FlupiTools",
+  "description": "Flupi's Unity Tools Package",
   "unity": "2022.3",
   "unityRelease": "0b10",
   "keywords": [
